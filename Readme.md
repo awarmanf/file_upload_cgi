@@ -1,7 +1,7 @@
 
 # File Upload CGI
 
-The File Upload CGI is a web application written in Perl CGI to limit the rate of upload file to user.
+The File Upload CGI is a web application written in Perl CGI to limit the upload rate of a file to user.
 
 >This application is written on Debian Linux (Jessie).
 
